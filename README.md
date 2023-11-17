@@ -1,9 +1,9 @@
-# Curso Avanzado de Técnicas de Manejo y Recuperación de Documentos con Langchain
+# Curso de LangChain para Manejo y Recuperación de Documentos
 
 ## Clonación del repositorio
 
 ```bash
-git clone https://github.com/jvelezmagic/langchain-advanced-document-handling-retrieval-techniques-course.git
+git clone https://github.com/platzi/curso-langchain-qa-documents.git
 ```
 
 ## Configuración de una sola vez
