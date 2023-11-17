@@ -3,7 +3,7 @@
 ## Clonación del repositorio
 
 ```bash
-git clone [https://github.com/jvelezmagic/langchain-advanced-document-handling-retrieval-techniques-course.git
+git clone https://github.com/jvelezmagic/langchain-advanced-document-handling-retrieval-techniques-course.git
 ```
 
 ## Configuración de una sola vez
